@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Borrower()
+comment0.text=\n\ Default\ hard-coded\ constructor\ for\ objects\ of\ class\ Borrower\n
+comment1.params=newSurname\ newLibraryID
+comment1.target=Borrower(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Borrower\ which\ wxpect\ entries\n\ for\ variables\ surname\ and\ library\ ID.\n
+comment2.params=
+comment2.target=java.lang.String\ getSurname()
+comment2.text=\n\ Accessor\ method\ that\ return\ the\ surname\ of\ the\ borrower\ object\n
+comment3.params=
+comment3.target=java.lang.String\ getLibraryID()
+comment3.text=\n\ Accessor\ method\ that\ return\ the\ library\ ID\ for\ the\ borrower\ object\n
+numComments=4

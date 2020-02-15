@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/h3/85w0_pg924q9rlvh9z6k5tkh0000gn/T/AppTranslocation/592C1F10-3A78-4349-8BF8-378044BEDD1C/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/private/var/folders/h3/85w0_pg924q9rlvh9z6k5tkh0000gn/T/AppTranslocation/592C1F10-3A78-4349-8BF8-378044BEDD1C/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/h3/85w0_pg924q9rlvh9z6k5tkh0000gn/T/AppTranslocation/592C1F10-3A78-4349-8BF8-378044BEDD1C/d/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/private/var/folders/h3/85w0_pg924q9rlvh9z6k5tkh0000gn/T/AppTranslocation/592C1F10-3A78-4349-8BF8-378044BEDD1C/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/private/var/folders/h3/85w0_pg924q9rlvh9z6k5tkh0000gn/T/AppTranslocation/592C1F10-3A78-4349-8BF8-378044BEDD1C/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/private/var/folders/h3/85w0_pg924q9rlvh9z6k5tkh0000gn/T/AppTranslocation/592C1F10-3A78-4349-8BF8-378044BEDD1C/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/private/var/folders/h3/85w0_pg924q9rlvh9z6k5tkh0000gn/T/AppTranslocation/592C1F10-3A78-4349-8BF8-378044BEDD1C/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3
+-d
+/Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/private/var/folders/h3/85w0_pg924q9rlvh9z6k5tkh0000gn/T/AppTranslocation/592C1F10-3A78-4349-8BF8-378044BEDD1C/d/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/CD.java
+<---- end of javadoc command ---->
+Loading source file /Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/CD.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_66
+Building tree for all the packages and classes...
+Generating /Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/doc/CD.html...
+/Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/CD.java:170: warning - @param argument "y" is not a parameter name.
+/Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/CD.java:170: warning - @return tag cannot be used in method with void return type.
+Generating /Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/doc/package-frame.html...
+Generating /Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/doc/package-summary.html...
+Generating /Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/doc/allclasses-frame.html...
+Generating /Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/doc/allclasses-noframe.html...
+Generating /Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/doc/index.html...
+Generating /Users/plamensavchev/Desktop/University/Year 1/Programming/myLibrary3/doc/stylesheet.css...
+2 warnings
